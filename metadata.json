@@ -1,0 +1,6 @@
+{
+  "name": "FireStock AI",
+  "description": "Smart offline-first inventory & spare parts management system for firefighting vehicles",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
